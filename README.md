@@ -41,7 +41,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
-![EX 4 1](https://github.com/Vinishofficial/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/146931793/88fb1656-d83a-4b0f-99f1-267b23b2f8c6)
+![image](https://github.com/Vinishofficial/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/146931793/9a372056-5793-4800-bc12-fa24446a03a1)
 
 
 
